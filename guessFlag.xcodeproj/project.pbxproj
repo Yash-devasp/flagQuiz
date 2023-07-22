@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3AC58FBD2A6C55E100BC66F9 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 3AC58FBC2A6C55E100BC66F9 /* .gitignore */; };
 		3AD1E09C2A66FB83000DD42F /* guessFlagApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AD1E09B2A66FB83000DD42F /* guessFlagApp.swift */; };
 		3AD1E09E2A66FB83000DD42F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AD1E09D2A66FB83000DD42F /* ContentView.swift */; };
 		3AD1E0A02A66FB85000DD42F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3AD1E09F2A66FB85000DD42F /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3AC58FBC2A6C55E100BC66F9 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		3AD1E0982A66FB83000DD42F /* guessFlag.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = guessFlag.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3AD1E09B2A66FB83000DD42F /* guessFlagApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = guessFlagApp.swift; sourceTree = "<group>"; };
 		3AD1E09D2A66FB83000DD42F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -35,6 +37,7 @@
 		3AD1E08F2A66FB83000DD42F = {
 			isa = PBXGroup;
 			children = (
+				3AC58FBC2A6C55E100BC66F9 /* .gitignore */,
 				3AD1E09A2A66FB83000DD42F /* guessFlag */,
 				3AD1E0992A66FB83000DD42F /* Products */,
 			);
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3AD1E0A32A66FB85000DD42F /* Preview Assets.xcassets in Resources */,
+				3AC58FBD2A6C55E100BC66F9 /* .gitignore in Resources */,
 				3AD1E0A02A66FB85000DD42F /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
